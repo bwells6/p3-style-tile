@@ -1,6 +1,26 @@
 /* Set Your Own Margin & Padding */
+.color-1 {
+	background: rgb(127, 178, 174);
+}
+.color-2 {
+	background: rgb(8, 123, 194);
+}
+.color-3 {
+	background: rgb(94, 108, 117);
+}
+.color-4 {
+	background: rgb(155, 178, 194);
+}
+.color-5 {
+	background: rgb(116, 117, 117);
+}
+
+h1 {
+	color: blue;
+}
+
 h2, h3, p {
-	margin: 0;
+	margin: 10px;
 }
 
 /* Layout for Style Tile*/
@@ -11,10 +31,13 @@ section {
 .color-1,
 .color-2,
 .color-3,
+.color-4,
+.color-5,
 .pattern-1,
 .pattern-2,
 .pattern-3 {
 	border: 1px solid #000;
+	border-radius: 10px;
 	float: left;
 	margin: 0 10px;
 	height: 50px;
