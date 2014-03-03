@@ -1,9 +1,9 @@
 /* Set Your Own Margin & Padding */
 .color-1 {
-	background: rgb(127, 178, 174);
+	background: rgb(220, 66, 70);
 }
 .color-2 {
-	background: rgb(8, 123, 194);
+	background: rgb(5, 75, 117);
 }
 .color-3 {
 	background: rgb(94, 108, 117);
@@ -12,15 +12,16 @@
 	background: rgb(155, 178, 194);
 }
 .color-5 {
-	background: rgb(116, 117, 117);
+	background: rgb(243, 245, 246);
 }
 
 h1 {
-	color: blue;
+	font-family: 'Della Respira', serif;
 }
 
 h2, h3, p {
 	margin: 10px;
+	font-family: 'News Cycle', sans-serif;
 }
 
 /* Layout for Style Tile*/
@@ -44,6 +45,15 @@ section {
 	width: 50px;
 }
 
+.pattern-1 {
+	background: url("../img/45degreee_fabric.png") repeat-y;
+}
+.pattern-2 {
+	background: url("../img/px_by_Gre3g.png") repeat-y;
+}
+.pattern-3 {
+	background: url("../img/retro_intro.png") repeat-y;
+}
 
 /* Show Grid */
 .showgrid {
