@@ -1,6 +1,6 @@
 /* Set Your Own Margin & Padding */
 body{
-	background: background: url("../img/45degreee_fabric.png") repeat-y;
+	background: rgb(155, 178, 194);
 }
 .color-1 {
 	background: rgb(220, 66, 70);
@@ -60,5 +60,5 @@ section {
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background: url("../img/45degreee_fabric.png");
 }
