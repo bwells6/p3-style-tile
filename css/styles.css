@@ -1,4 +1,7 @@
 /* Set Your Own Margin & Padding */
+body{
+	background: background: url("../img/45degreee_fabric.png") repeat-y;
+}
 .color-1 {
 	background: rgb(220, 66, 70);
 }
